@@ -33,7 +33,7 @@ Client = {
     }
 }
 
-local lib = loadstring(game:HttpGet("https://pastebin.com/raw/8v1NDF5v"))()
+local lib = loadstring(game:HttpGet("https://pastebin.com/raw/7rgh6m2P"))()
 main = lib:Window()
 CombatW = main:Tab('Stryxen Main')
 FEW = main:Tab('Gun')
